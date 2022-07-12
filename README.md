@@ -1,8 +1,8 @@
-Hi, I’m David Coggan, currently a post-doctoral researcher in cognitive and computational neuroscience. I work under Frank Tong at Vanderbilt University, TN.
+Hi, I’m David Coggan, currently a post-doctoral researcher in cognitive and computational neuroscience. I work under Frank Tong at Vanderbilt University, where I study the neural and computational underpinnings of visual object perception.
 
-I will be looking for jobs in deep learning / data science starting in 2023.
+I will be looking for jobs in computer vision / deep learning / data science / vision science starting in April 2023.
 
-I can program in Python and MATLAB, and have been using PyTorch to develop and train deep convolutional neural networks.
+Please see the attached resume for more information.
 
 You can reach me at ddcoggan [at] gmail.com
 
