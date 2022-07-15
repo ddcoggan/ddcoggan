@@ -4,7 +4,7 @@ I will be looking for jobs in computer vision / deep learning / data science / v
 
 Please see the attached resume for more information.
 
-You can reach me at ddcoggan [at] gmail.com
+You can reach me at ddcoggan [at] icloud.com
 
 My google scholar profile: https://scholar.google.co.uk/citations?user=c4n_l-gAAAAJ&hl=en
 
